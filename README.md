@@ -118,7 +118,7 @@
 
 
 ## 📄 **Resume**
-- You can view or download my resume [here]([https://github.com/mshadabaalam/Resume/blob/main/Shadab_Data%20Analyst.pdf]).
+- You can view or download my resume [here](https://github.com/mshadabaalam/Resume/blob/main/Shadab_Data%20Analyst.pdf).
 
 
 ### **Thanks for checking out my GitHub Profile!** 🙏
