@@ -66,6 +66,18 @@
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black "Power BI")][repo]
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white "Tableau")][repo]
 
+## 📊 **DATA SCIENCE LIBRARIES**
+
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white "NumPy")][repo]
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white "Pandas")][repo]
+
+## 📊 **DATA VISUALIZATION LIBRARIES**
+
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-0072BD?style=for-the-badge&logo=matplotlib&logoColor=white "Matplotlib")][repo]
+[![Seaborn](https://img.shields.io/badge/Seaborn-003B4C?style=for-the-badge&logo=seaborn&logoColor=white "Seaborn")][repo]
+[![Plotly](https://img.shields.io/badge/Plotly-3F4D91?style=for-the-badge&logo=plotly&logoColor=white "Plotly")][repo]
+[![Bokeh](https://img.shields.io/badge/Bokeh-FF7F0E?style=for-the-badge&logo=bokeh&logoColor=white "Bokeh")][repo]
+
 
 ## 🛠️ **DEVOPS TOOLS**
 
