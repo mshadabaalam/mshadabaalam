@@ -33,7 +33,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mshadabaalam&" alt="mshadabaalam" /></p>
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amshadabaalam" alt="mshadabaalam" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mshadabaalam" alt="mshadabaalam" /></a> </p>
 
 
 ## 🌏 **CONNECT WITH ME**
@@ -52,8 +52,6 @@
 
 ## 📅 **DATABASES**
 
-## 📅 **DATABASES**
-
 [![MSSQL Server](https://img.shields.io/badge/MSSQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white "MSSQL Server")][repo]
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySQL")][repo]
 
@@ -68,7 +66,6 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")][repo]
 
 ## ☁️ **CLOUDS**
-
 
 [![AWS](https://img.shields.io/badge/Amazon-_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white "AWS")][repo]
 
@@ -92,7 +89,6 @@
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-## ☃️ **MY LEARNING RESOURCES**
 
 ## ☃️ **MY LEARNING RESOURCES**
 
