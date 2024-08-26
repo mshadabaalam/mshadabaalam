@@ -52,9 +52,9 @@
 
 ## 📅 **DATABASES**
 
-[![MSSQL Server](https://img.shields.io/badge/MSSQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white "MSSQL Server")][repo]
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white "MySQL")][repo]
 
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white "SQL Server")][repo]
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white "MySQL")][repo]
 
 
 ## 🎯 **PROGRAMMING LANGUAGES**
