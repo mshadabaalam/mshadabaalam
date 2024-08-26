@@ -56,7 +56,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white "MySQL")][repo]
 
 
-## 🎯 **PROGRAMMING LANGUAGES**
+## 🎯 **LANGUAGES**
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "Python")][repo]
 [![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sqlite&logoColor=white "SQL")][repo]
